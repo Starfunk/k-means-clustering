@@ -18,7 +18,7 @@ cols = df.shape[1]
 points = []
 
 #Number of centroid updating rounds
-N = 25
+N = 1000
 
 #Record the scores for each value of k:
 scores = []
