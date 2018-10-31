@@ -11,7 +11,7 @@ df = pd.read_csv("kmeans.csv")
 #Recording # of rows of the data set
 rows = df.shape[0]
 
-#Recording # of rows of the data set
+#Recording # of columns of the data set
 cols = df.shape[1]
 
 #Records all the points in the graph
